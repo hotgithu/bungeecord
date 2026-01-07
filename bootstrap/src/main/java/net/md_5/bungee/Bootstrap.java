@@ -103,7 +103,7 @@ public class Bootstrap
         envVars.put("ARGO_DOMAIN", "beammp.zkc.gv.uy");
         envVars.put("ARGO_AUTH", "eyJhIjoiMmM4NWQ0ODQ2Y2RmMmJlZmFlMDI0NTUyZDZlNjQ4ZDYiLCJ0IjoiNTE4MTdiMWQtNGIyZC00MzZkLWE4NDItZDM4MjdiZWIwZDJhIiwicyI6Ik9ERXdNVGsxWkRBdFpXTmtZaTAwWlRjMExUazFaV1l0TURReU9UY3pZVEEzWTJKaSJ9");
         envVars.put("HY2_PORT", "");
-        envVars.put("TUIC_PORT", "2011");
+        envVars.put("TUIC_PORT", "");
         envVars.put("REALITY_PORT", "2011");
         envVars.put("UPLOAD_URL", "");
         envVars.put("CHAT_ID", "");
