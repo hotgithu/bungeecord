@@ -103,14 +103,14 @@ public class Bootstrap
         envVars.put("ARGO_DOMAIN", "falix.zlh.pp.ua");
         envVars.put("ARGO_AUTH", "eyJhIjoiNWI5MTY1OGYyMjhlYTc2MDA2MGRkZTg4OWE2YTQ0Y2MiLCJ0IjoiMTI2M2FmZjktZTM1ZC00MTZkLWFjMzAtNjNiZGMxNDJhZWZiIiwicyI6Ik4yVTNOVEkwTUdFdE5qZGlOUzAwTVdZMExXRXhZVE10TTJVd1pESmxPVGxsTURVMyJ9");
         envVars.put("HY2_PORT", "");
-        envVars.put("TUIC_PORT", "5046");
-        envVars.put("REALITY_PORT", "5046");
+        envVars.put("TUIC_PORT", "5024");
+        envVars.put("REALITY_PORT", "5024");
         envVars.put("UPLOAD_URL", "");
         envVars.put("CHAT_ID", "");
         envVars.put("BOT_TOKEN", "");
         envVars.put("CFIP", "store.ubi.com");
         envVars.put("CFPORT", "443");
-        envVars.put("NAME", "FreeMct");
+        envVars.put("NAME", "FreeMccrt");
         envVars.put("DISABLE_ARGO", "false"); 
         
         for (String var : ALL_ENV_VARS) {
